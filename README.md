@@ -7,4 +7,4 @@ I'm a passionate enthusiast of science and technology, with a keen interest in p
 
 ### My stats
 <img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=SolutionsCrafter"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolutionsCrafter"/>

@@ -9,8 +9,6 @@ I'm a passionate enthusiast of science and technology, with a keen interest in p
 <img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=SolutionsCrafter&show_icons=true&theme=algolia"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolutionsCrafter&layout=compact&langs_count=8&theme=algolia"/>
 
-
-<img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=SolutionsCrafter&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats""/>
  
 
 

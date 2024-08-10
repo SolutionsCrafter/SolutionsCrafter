@@ -7,7 +7,7 @@ I'm a passionate enthusiast of science and technology, with a keen interest in p
 
 ### My stats
 <img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=SolutionsCrafter&show_icons=true&theme=algolia"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolutionsCrafter&layout=compact&langs_count=8&theme=algolia"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SolutionCrafter&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SubhadeepZilong" height="192px"/>
 
 
  

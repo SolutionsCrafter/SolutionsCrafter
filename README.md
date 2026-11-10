@@ -15,7 +15,7 @@ I'm a passionate enthusiast of science and technology, with a keen interest in p
 
 ### My Languages & Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,java,kotlin,dart,flutter,spring,mongodb,mysql,firebase,gcp,figma,git,github,androidstudio,vscode,idea,discord" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,c,androidstudio,flutter,firebase,supabase,postgres,sqlite,mysql,git,github,githubactions,gradle,postman,figma,vscode,idea" />
 </a>
 
 
